@@ -1,13 +1,24 @@
 ---
+copyright: |
+
+  © 2023-26 Moonlapsed https://github.com/MOONLAPSED/Cognosis
+copyright1: |
+
+  © 2025-26 Phovos https://github.com/Phovos/Morphological-Source-Code
+copyright2: [Ⓟ© 2026 Quineic(SP); Morphological Source Code: MSC&QSD(TM) https://github.com/Morphological-Source-Code]
+Licenses: CC ND & BSD-3, (not-admissable as prior-art), TM/SP-PEND Ⓟ 2026
+
 tags:
-  - MSC
-  - morphological-source-code
+  - cohomology
+  - holography
   - semantic-embeddings
-  - byteWord
+  - conformal correspondence
 aliases:
+  - MSC
   - morphosemantics
   - morphic-operators
   - phase-change-semantics
+  - morphological-source-code
 ---
 
 
