@@ -84,4 +84,6 @@ where each $\mathcal{O}$ carries semantic weight, enabling reversible (non-Marko
 >
 > `morphoSemantics <-> syntaxEndoFunctor <-> runtimeFunctor <-> executuionMorphism <-> JIT/detritus` wrt sigmaConstituency, 'detritus' **is** a constituency.
 >
+> A 'constituency' is closed, topological, however, symmetry is spontaneously-broken via the observer-effect; the "pointer" - the 'pointed-to: `Pointer ∈ BW ⸦ CBW ⸦ Constituency`.
+>
 > This is, exactly, up to isomorphism, topologically equivilant to "Call by Reference / Call by Value" (singularity) [[The C Programming Language]].
