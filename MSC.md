@@ -62,7 +62,10 @@ where each $\mathcal{O}$ carries semantic weight, enabling reversible (non-Marko
 > [!note] Pseudo-Compilation in Python
 > Even though Python is traditionally interpreted, **ByteWord** machinery provides a "just-in-time" semantic *compilation* stage:
 > 
-> 1. **ByteWord** encodes data & code into fixed-size "words" (8–64 bits).
-> 2. Bundles (Type, Value, Computation).
-> 3. "Taken-together" as one-number, per [[Shrodinger's Razor]], they let us analyze, index, and transform semantics *before* execution.
-> 4. Projects a quantized, discrete, compilation-like checkpoint rhetorically inside a Python monolith (Arrow of 'time': [[MRO]]).
+> **ByteWord** encodes data & code into fixed-size "words" (8–64 bits).
+> Bundles (Type, Value, Computation).
+> "Taken-together" as one-number, per [[Shrodinger's Razor|Matrix Mechanics]], they let us analyze, index, and transform semantics *before* execution (syntax 'binds' at execution).
+> Projects a quantized, discrete, compilation-like checkpoint rhetorically inside a Python monolith (arrowOfTime: [[MRO]]).
+> Post semantics, pre-execution (and 'post'-singularity) (binding); all BW+CBW form a 'constituency' within a bounded lightCone.
+> `morphoSemantics <-> syntaxEndoFunctor <-> runtimeFunctor <-> executuionMorphism <-> JIT/detritus` wrt sigmaConstituency
+> This is, exactly, up to isomorphism, topologically equivilant to "Call by Reference / Call by Value" (singularity) [[The C Programming Language]].
