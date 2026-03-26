@@ -65,12 +65,12 @@ where each $\mathcal{O}$ carries semantic weight, enabling reversible (non-Marko
 >
 > **ByteWord** encodes data & code into fixed-size "words" (8–64 bits) (Type, Value, Computation).
 >
-> "Taken-together" as one-number, per [[Shrodinger's Razor|Matrix Mechanics]], they let us analyze, index, and transform semantics *before* execution (syntax 'binds' at execution).
+> "Taken-together as one-number", per [[Shrodinger's Razor|Matrix Mechanics]], they let us analyze, index, and transform semantics *before* execution (syntax 'binds' at execution).
 >
 > Projects a quantized, discrete, compilation-like checkpoint rhetorically inside a Python monolith (arrowOfTime: [[MRO]]).
 >
 > Post semantics, pre-execution (and 'post'-singularity) (binding); all BW+CBW form a 'constituency' within a bounded lightCone.
 >
-> `morphoSemantics <-> syntaxEndoFunctor <-> runtimeFunctor <-> executuionMorphism <-> JIT/detritus` wrt sigmaConstituency
+> `morphoSemantics <-> syntaxEndoFunctor <-> runtimeFunctor <-> executuionMorphism <-> JIT/detritus` wrt sigmaConstituency, 'detritus' **is** a constituency.
 >
 > This is, exactly, up to isomorphism, topologically equivilant to "Call by Reference / Call by Value" (singularity) [[The C Programming Language]].
