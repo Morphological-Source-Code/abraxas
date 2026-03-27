@@ -87,3 +87,28 @@ where each $\mathcal{O}$ carries semantic weight, enabling reversible (non-Marko
 > A 'constituency' is closed, topological, however, symmetry is spontaneously-broken via the observer-effect; the "pointer" - the 'pointed-to': `Pointer ∈ BW ⸦ CBW ⸦ Constituency`.
 >
 > This is, up to isomorphism, topologically equivilant to "Call by Reference / Call by Value" (singularity) [[The C Programming Language]].
+
+
+| Derivative           | Dictionary Entry         | BW/CBW Reading                           | TM Head Action                         | Null-Delimited List Operation        |
+| -------------------- | ------------------------ | ---------------------------------------- | -------------------------------------- | ------------------------------------ |
+| Δ⁰ (base)            | Field configuration      | "What is the BW?"                        | **Read** symbol at current cell        | "What BW is at head position?"       |
+| Δ¹ (connection)      | Parallel transport       | "How does BW change under C→C'?"         | **Move** left/right to next cell       | "Traverse to next BW (skip null)"    |
+| Δ² (curvature)       | Field strength           | "What is the holonomy of CBW?"           | **Write** new symbol (state change)    | "Modify BW, creating CBW"            |
+| Δ³ (torsion)         | Path-dependence          | "How does concatenation order matter?"   | **Move** with history (path-dependent) | "Order of concatenation matters"     |
+| **Δ⁴** (holographic) | **Operator at infinity** | **"What is the boundary value of CBW?"** | **Halt** with yield (boundary value)   | "Yield the complete CBW at infinity" |
+
+|                  | Quantized (Bits)       | Gauged (Ensembles)         |
+| ---------------- | ---------------------- | -------------------------- |
+| **Unit**         | BW (ByteWord)          | CBW (CompoundByteWord)     |
+| **Delimiter**    | Single null            | n+1 nulls                  |
+| **TM operation** | Read/write single cell | Read/write block with move |
+| **Derivative**   | Δ⁰, Δ¹ (local)         | Δ², Δ³, Δ⁴ (non-local)     |
+| **Physics**      | Quantum (discrete)     | Classical field (gauge)    |
+
+| Reading                 | TM Head State        | Interpretation                          |
+| ----------------------- | -------------------- | --------------------------------------- |
+| **T × M** (Shape)       | **Read** only        | "What is the geometry at this cell?"    |
+| **T × ∞** (Asymptotic)  | **Move** to boundary | "What operator does this approach?"     |
+| **M × ∞** (Holographic) | **Write** + **Halt** | "What boundary value does this induce?" |
+
+
